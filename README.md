@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://clearycoding.com/assets/images/branding/original.png" alt="Cleary Coding Logo" width="15%"/>
-</p>
-
 <p align="center">Hi 👋</p>
 <h1 align="center">My Name Is Alexander Cleary.</h1>
 
